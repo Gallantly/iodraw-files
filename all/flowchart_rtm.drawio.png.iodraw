@@ -112,15 +112,14 @@
             <mxPoint x="530" y="120" as="targetPoint" />
             <Array as="points">
               <mxPoint x="290" y="210" />
-              <mxPoint x="290" y="190" />
-              <mxPoint x="260" y="190" />
+              <mxPoint x="290" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="TKVvkE-u0SFxTyQXQZsQ-20" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Primary 3-h cohort n=2,857&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TKVvkE-u0SFxTyQXQZsQ-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;Excluded: age &amp;lt;18 or invalid age&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;n=3&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="TKVvkE-u0SFxTyQXQZsQ-21" value="&lt;font face=&quot;Times New Roman&quot;&gt;Excluded&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;age &amp;lt;18 or invalid age&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;nbsp;n=3&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TKVvkE-u0SFxTyQXQZsQ-22" value="PE Diagnosis&lt;div&gt;n =2,906&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

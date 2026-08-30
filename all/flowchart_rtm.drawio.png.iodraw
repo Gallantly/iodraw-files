@@ -57,8 +57,8 @@
         <mxCell id="TKVvkE-u0SFxTyQXQZsQ-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;3-h landmark-eligible stays&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;n=2,975&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TKVvkE-u0SFxTyQXQZsQ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="TKVvkE-u0SFxTyQXQZsQ-9" value="&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;ATE before 3-h landmark&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;xXYntGaNy4l6rXjYHKcr&quot;&gt;n=118&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
